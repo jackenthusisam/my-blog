@@ -1,4 +1,4 @@
-baseURL = 'https://你的用户名.pages.dev/'
+baseURL = 'https://xn--6qqv7i14ofosyrb.pages.dev/'
 languageCode = 'zh-cn'
 title = '我的博客'
 theme = 'PaperMod'
@@ -19,7 +19,7 @@ theme = 'PaperMod'
 [socialIcons]
   [[params.socialIcons]]
     name = "github"
-    url = "https://github.com/你的用户名"
+    url = "https://github.com/jackenthusisam"
 
 [menu]
   main = [
