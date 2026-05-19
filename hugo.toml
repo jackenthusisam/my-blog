@@ -12,6 +12,13 @@ theme = 'PaperMod'
   ShowCodeCopyButtons = true
   ShowWordCount = true
 
+[params.assets]
+  favicon = "/favicon.svg"
+
+[params.label]
+  icon = "/images/logo.svg"
+  iconHeight = 32
+
 [params.homeInfoParams]
   Title = "你好 👋"
   Content = "欢迎来到我的博客"

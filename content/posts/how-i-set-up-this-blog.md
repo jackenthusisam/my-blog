@@ -2,6 +2,10 @@
 date: '2026-05-20T00:30:00+08:00'
 title: '我是如何搭建这个博客的'
 tags: ["教程", "Hugo", "Cloudflare"]
+cover:
+  image: "/images/how-i-set-up-cover.svg"
+  alt: "博客架构图 - Hugo + GitHub + Cloudflare"
+  caption: "Hugo → GitHub → Cloudflare Pages"
 ---
 
 ## 前言
