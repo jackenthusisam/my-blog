@@ -1,4 +1,4 @@
-baseURL = 'https://xn--6qqv7i14ofosyrb.pages.dev/'
+baseURL = 'https://my-blog-bed.pages.dev/'
 languageCode = 'zh-cn'
 title = '我的博客'
 theme = 'PaperMod'
